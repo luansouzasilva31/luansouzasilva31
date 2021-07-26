@@ -2,8 +2,10 @@
 ### I'm Luan Souza
 > Status: Developing ⚠️
 
+<!-- [Snake animation](https://github.com/luansouzasilva31/luansouzasilva31/blob/main/.github/workflows/github-contribution-animation.yml) -->
+
 <div align="center">
-  <a margin="0px 30px;" href="https://www.linkedin.com/in/luan-de-souza-silva-75753b158/" target="_blank">
+  <a href="https://www.linkedin.com/in/luan-de-souza-silva-75753b158/" target="_blank">
     <img align="center" alt="luan-linkedin" height="30" width="30" src="https://github.com/devicons/devicon/blob/v2.12.0/icons/linkedin/linkedin-original.svg" style="max-width:100%;">  
   </a>
   <a href="https://www.instagram.com/luan.souuuza/" target="_blank">
