@@ -18,7 +18,7 @@
 
 #### Info ℹ️
 - I am from Maranhão, Brazil 🇧🇷🌅
-- I have been working at **Grupo ICTS** as **Development Analyst** 👨‍💻
+- I have been working at **Grupo ICTS** as **System Development Analyst** of Artificial Intelligence systems 👨‍💻
 - I have been working on Deep Learning algorithms using Python and Tensorflow 💻🧠
 - I have been stuying **Electrical Engineering** at **UFMA** ⚡
 - I have been working as **Researcher** at **Núcleo de Computação Aplicada (NCA)**, UFMA
