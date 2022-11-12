@@ -17,12 +17,11 @@
 </div>
 
 #### Info ℹ️
-- I am from Maranhão, Brazil 🇧🇷🌅
-- I have been working at **Grupo ICTS** as **System Development Analyst** of Artificial Intelligence systems 👨‍💻
+- I am from Maranhao, Brazil 🇧🇷🌅
+- I have been working at Grupo ICTS as System Development Analyst. Focused on Signal Processing, Machine Learning and Computer Vision 👨‍💻
 - I have been working on Deep Learning algorithms using Python and Tensorflow 💻🧠
-- I have been stuying **Electrical Engineering** at **UFMA** ⚡
-- I have been working as **Researcher** at **Núcleo de Computação Aplicada (NCA)**, UFMA
-- I have been learning about HTML, CSS and JavaScript 
+- I have been stuying Electrical Engineering ⚡
+- I have been working as researcher at Núcleo de Computação Aplicada (NCA), UFMA
 
 
 ### My Skills
