@@ -26,15 +26,13 @@
 
 ### My Skills
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tf" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" alt="c" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="html" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="css" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tf" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/496px-PyTorch_logo_icon.svg.png?20200318225611" alt="pytorch" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40" style="max-width:100%;"></img>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luansouzasilva31&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luansouzasilva31&layout=compact)](https://github.com/luansouzasilva31/github-readme-stats)
