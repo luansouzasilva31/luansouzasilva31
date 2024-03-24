@@ -14,11 +14,10 @@
 </div>
 
 #### Info ℹ️
-- I am from Maranhao, Brazil 🇧🇷🌅
-- I have been working at Grupo ICTS as System Development Analyst. Focused on Signal Processing, Machine Learning and Computer Vision 👨‍💻
-- I have been working on Deep Learning algorithms using Python and Tensorflow 💻🧠
-- I have been stuying Electrical Engineering ⚡
-- I have been working as researcher at Núcleo de Computação Aplicada (NCA), UFMA
+- I am from Maranhao, Brazil 🇧🇷🌞
+- Working at Grupo ICTS as System Development Analyst. Focused on Signal Processing, Machine Learning and Computer Vision 👨‍💻
+- Graduating in Electrical Engineering ⚡
+- Researcher at Núcleo de Computação Aplicada (NCA), UFMA
 
 
 ### My Skills
