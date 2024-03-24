@@ -24,6 +24,7 @@
 ### My Skills
 <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width:100%;"></img></a>
 <a href="https://www.gnu.org/software/gnu-c-manual/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" alt="c" width="40" height="40" style="max-width:100%;"></img></a>
+<a href="https://isocpp.org/"><img src="https://www.cdnlogo.com/logos/c/76/c.svg" alt="c++" width=40 height=40 style="max-width:100%;"></a>
 <a href="https://pytorch.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/496px-PyTorch_logo_icon.svg.png?20200318225611" alt="pytorch" width="40" height="40" style="max-width:100%;"></img></a>
 <a href="https://www.tensorflow.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40" style="max-width:100%;"></img></a>
 <a href="https://opencv.org/"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" style="max-width:100%;"></img></a>
