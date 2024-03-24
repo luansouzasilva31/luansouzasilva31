@@ -8,9 +8,6 @@
   <a href="https://www.linkedin.com/in/luan-de-souza-silva-75753b158/" target="_blank">
     <img align="center" alt="luan-linkedin" height="30" width="30" src="https://github.com/devicons/devicon/blob/v2.12.0/icons/linkedin/linkedin-original.svg" style="max-width:100%;">  
   </a>
-  <a href="https://www.instagram.com/luan.souuuza/" target="_blank">
-    <img align="center" alt="luan-instagram" height="30" width="30" src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" style="max-width:100%;">   
-  </a>
   <a href="mailto:luansouzasilva31@gmail.com" target="_blank">
     <img align="center" alt="luan-gmail" height="30" width="30" src="https://img.icons8.com/color-glass/2x/gmail.png" style="max-width:100%">
   </a>
