@@ -15,8 +15,8 @@
 
 ### Info ℹ️
 - I am from Maranhao, Brazil 🇧🇷🌞
-- Working at Moray.ai as Data Scientist 👨‍💻
-- Graduating in Electrical Engineering ⚡
+- Working at Moray.ai as a Computer Vision Engineer 👁️👨‍💻👁️
+- Bachelor's in Electrical Engineering ⚡
 - Researcher at Núcleo de Computação Aplicada (NCA), UFMA
 
 
